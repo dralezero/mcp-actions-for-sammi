@@ -8,5 +8,5 @@ Do not sell or redistribute without permission.
 ## Disclaimer  
 
 This is an unofficial community project. I am not affiliated with  
-Mix It Up or Elgato or any of their products. All product names, logos,  
+SAMMI Solutions or Elgato or any of their products. All product names, logos,  
 and brands are property of their respective owners.  
