@@ -42,7 +42,7 @@ Open default variables for ELGATO_MCP_CONFIG
 Edit the "elgato_mcp_url" value as needed for your setup.
 Default is "http://localhost:9090/mcp"
 
-Edit Elgato MCP Server Start and Stop buttons for the file paths to:
+Edit Elgato MCP Server Start and Stop buttons for the file paths to:  
 elgato_mcp_start.bat  
 elgato_mcp_stop.bat  
 
