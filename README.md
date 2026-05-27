@@ -3,7 +3,7 @@ A SAMMI deck of buttons to request and trigger Stream Deck actions through Elgat
 
 ## Setup Stream Deck:
 
-Stream Deck 7.4.0
+Stream Deck 7.4.0 or higher  
    Settings > General > Enable MCP Actions
 
    Put actions in profile: MCP Actions
