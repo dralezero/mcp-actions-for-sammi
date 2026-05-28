@@ -51,8 +51,6 @@ Edit Elgato MCP Server Start and Stop buttons for the file paths to:
 elgato_mcp_start.bat  
 elgato_mcp_stop.bat  
 
-## How to use:  
-
 ### Elgato MCP Start Server  
 
    Recommend add Trigger to run when SAMMI Startup or start stream
