@@ -20,6 +20,8 @@ Stream Deck 7.4.0 or higher
    Right-click Run as Administrator  
 
 ### Manual install  
+   Tutorial: https://www.youtube.com/watch?v=6fAbno8UpZU
+   
    Install: Node.js  
    https://nodejs.org/en  
    Do not need to check "Automatically install the necessary tools"  
@@ -36,6 +38,9 @@ Stream Deck 7.4.0 or higher
    Set-ExecutionPolicy Restricted
 
 More info: https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/
+
+### SAMMI Tutorial
+https://www.youtube.com/watch?v=B_b3dzYnsts
 
 ### Configuration:
 Open default variables for ELGATO_MCP_CONFIG
