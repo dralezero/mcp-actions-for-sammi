@@ -39,7 +39,7 @@ Stream Deck 7.4.0 or higher
 
 More info: https://www.elgato.com/ww/en/explorer/products/stream-deck/sd-mcp-setup/
 
-### SAMMI Tutorial
+## SAMMI Tutorial
 https://www.youtube.com/watch?v=B_b3dzYnsts
 
 ### Configuration:
